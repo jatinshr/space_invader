@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="ed6cd6dc-7f6f-46bf-9287-6bc2b45635ae" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/.name" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/first game.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bgm.mp3" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/blast.wav" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bullet.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/game.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gameover.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/shoot.wav" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/skull.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/space-ship.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/space-ship1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/space.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ufo2.png" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="1klzIwtXbCD2Z8gyaMm3Gm6HLcv" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../../../DOUBTFORUM WEBSITE" />
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="ed6cd6dc-7f6f-46bf-9287-6bc2b45635ae" name="Default Changelist" comment="" />
+      <created>1606289939136</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1606289939136</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="463" y="138" key="FileChooserDialogImpl" timestamp="1606923994215">
+      <screen x="0" y="0" width="1366" height="768" />
+    </state>
+    <state x="463" y="138" key="FileChooserDialogImpl/0.0.1366.768@0.0.1366.768" timestamp="1606923994215" />
+  </component>
+</project>
